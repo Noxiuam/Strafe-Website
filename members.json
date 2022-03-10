@@ -21,7 +21,25 @@
         "Nox": {
             "name": "Nox",
             "uuid": "f45749b9416e4caf83d4467ef3c93a86",
-            "rank" : "developer"
+            "rank" : "ogs"
+        },
+
+        "PackFolder": {
+            "name": "PackFolder",
+            "uuid": "3d825cdb9f3c4460970d526331e0e95d",
+            "rank" : "ogs"
+        },
+
+        "Detaining": {
+            "name": "Detaining",
+            "uuid": "c8f6dc8826c4401d8eac6049985d574a",
+            "rank" : "ogs"
+        },
+
+        "Ayxai": {
+            "name": "Ayxai",
+            "uuid": "fda3778519f743f09b27584f5257e296",
+            "rank" : "ogs"
         },
 
         "Rich_Galaxyz": {

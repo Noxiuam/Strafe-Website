@@ -1,0 +1,33 @@
+{
+    "posts": {
+        "post1": {
+            "title": "Minecadia Map #1",
+            "category": "Factions",
+            "description": "Our first-ever map of playing Factions on Minecadia, and we managed to get to Faction Top 10!",
+            "author": "Fxmous",
+            "content": "main",
+            "link": "http://strafe.rip",
+            "image": "http://strafe.rip/thumbnails/news_thumnail_1.png"
+        },
+
+        "post2": {
+            "title": "rip me LMFAO",
+            "category": "Skyblock",
+            "description": "Literally fell off the first minute into the map",
+            "author": "Nox",
+            "content": "mini",
+            "link": "http://strafe.rip",
+            "image": "http://strafe.rip/thumbnails/news_thumnail_1.png"
+        },
+
+        "post3": {
+            "title": "I am gay",
+            "category": "LOL",
+            "description": "ysdghfusdhbgnjsdhkgbn",
+            "author": "Inboxx",
+            "content": "mini",
+            "link": "http://strafe.rip",
+            "image": "http://strafe.rip/thumbnails/news_thumbnail_3.png"
+        }
+    }
+}

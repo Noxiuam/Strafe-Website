@@ -42,6 +42,12 @@
             "rank" : "ogs"
         },
 
+        "RlyRemixed": {
+            "name": "RlyRemixed",
+            "uuid": "73dc064e073941e39be789d1d3d280ad",
+            "rank" : "captain"
+        },
+
         "Rich_Galaxyz": {
             "name": "Rich_Galaxyz",
             "uuid": "e8c7d52cff0d4c48939bd4b8e08a7c87",
@@ -96,9 +102,9 @@
             "rank" : "member"
         },
         
-        "Rep1icA": {
-            "name": "Rep1icA",
-            "uuid": "ddad30476ec249ee94b641c81f49db20",
+        "Rep1icaa": {
+            "name": "Rep1icaa",
+            "uuid": "28f4115966e940dca9394e54c92f6964",
             "rank" : "member"
         },
         
@@ -168,8 +174,8 @@
             "rank" : "member"
         },
 
-        "AdIp": {
-            "name": "AdIp",
+        "Receivn": {
+            "name": "Receivn",
             "uuid": "590fad7e172a402d82b50413ed22aa50",
             "rank" : "member"
         },
@@ -177,6 +183,24 @@
         "Crating": {
             "name": "Crating",
             "uuid": "150750c8962048738c0c7e0d16e9ffc2",
+            "rank" : "member"
+        },
+        
+        "essorant": {
+            "name": "essorant",
+            "uuid": "e1061278e2e64f26b660b744d6914593",
+            "rank" : "member"
+        },
+        
+        "_M4_": {
+            "name": "_M4_",
+            "uuid": "9899144a206a4be6875f6d06f330ccb0",
+            "rank" : "member"
+        },
+        
+        "Shxrkyy": {
+            "name": "Shxrkyy",
+            "uuid": "ffd713bbe5104c6985c8f3f65c5a9f03",
             "rank" : "member"
         },
 

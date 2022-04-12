@@ -7,7 +7,7 @@
         },
     
         "Inboxx": {
-            "name": "Inboxx",
+            "name": "Inboxx (quickdropper)",
             "uuid": "d268f133ba0247739acea47e608d4c8f",
             "rank" : "leader"
         },
@@ -20,7 +20,7 @@
     
         "Nox": {
             "name": "Nox",
-            "uuid": "f45749b9416e4caf83d4467ef3c93a86",
+            "uuid": "2beaac97f357493a9b8cf7f1976a8f0d",
             "rank" : "ogs"
         },
 
@@ -48,136 +48,22 @@
             "rank" : "captain"
         },
 
-        "Rich_Galaxyz": {
-            "name": "Rich_Galaxyz",
-            "uuid": "e8c7d52cff0d4c48939bd4b8e08a7c87",
-            "rank" : "member"
-        },
-
-        "Julqs": {
-            "name": "Julqs",
-            "uuid": "0ec1f17533a3403ea644e06c4509a91b",
-            "rank" : "member"
-        },
-        
-        "ECOMAN12": {
-            "name": "ECOMAN12",
-            "uuid": "0758a448b9ca45e7974295a6fb208b86",
-            "rank" : "member"
-        },
-        
-        "Itsaduki": {
-            "name": "Itsaduki",
-            "uuid": "b17ff7ad8115493b89ae113e9d925b43",
-            "rank" : "member"
-        },
-        
-        "Bent": {
-            "name": "Bent",
-            "uuid": "0c5dbd6ed5d34d4d80d1dc44a4dee5c3",
-            "rank" : "member"
-        },
-        
-        "wtfCelestial": {
-            "name": "wtfCelestial",
-            "uuid": "83183f3711d648019fc45e97581aed4a",
-            "rank" : "member"
-        },
-        
-        "ZauesYT": {
-            "name": "ZauesYT",
-            "uuid": "20f6a7bddab244969454bac7a33cf771",
-            "rank" : "captain"
-        },
-        
-        "Zentuhh": {
-            "name": "Zentuhh",
-            "uuid": "32d6c3d15612459285bdf13a43926c8f",
-            "rank" : "captain"
-        },
-        
-        "oEthanos": {
-            "name": "oEthanos",
-            "uuid": "eff58af3c11842c7b30cac09b430f69e",
-            "rank" : "member"
-        },
-        
-        "Rep1icaa": {
-            "name": "Rep1icaa",
-            "uuid": "28f4115966e940dca9394e54c92f6964",
-            "rank" : "member"
-        },
-        
-        "BruhMyth": {
-            "name": "BruhMyth",
-            "uuid": "4a2bd08bdb3346c597edaa8b8181a61a",
-            "rank" : "member"
-        },
-        
-        "Kizzlers": {
-            "name": "Kizzlers",
-            "uuid": "c3f111a82f3d48f2863d832ca8608687",
-            "rank" : "member"
-        },
-        
         "AdrianFtws": {
             "name": "AdrianFtws",
             "uuid": "69488a1e5e2b42ab98ee30e52f7cd6e5",
             "rank" : "captain"
         },
         
-        "LateBot": {
-            "name": "LateBot",
-            "uuid": "63747c93a89d4b2c822ece5ca8e5b459",
-            "rank" : "member"
-        },
-        
-        "Fxmous40": {
-            "name": "Fxmous40",
-            "uuid": "7fe5f991b173494a9d41b1ac18445bbc",
-            "rank" : "member"
-        },
-        
-        "YoduXDD": {
-            "name": "YoduXDD",
-            "uuid": "383b3d5b671f48ddba9b5fa73f49051c",
-            "rank" : "member"
-        },
-        
-        "kisscam": {
-            "name": "kisscam",
-            "uuid": "41ea53e4ece54a64aacb8d440b745630",
-            "rank" : "member"
-        },
-
-        "Selixe": {
-            "name": "Selixe",
-            "uuid": "98cc45b502a54e95be93827a424252a4",
-            "rank" : "member"
-        },
-
-        "iReverse": {
-            "name": "iReverse",
-            "uuid": "377c5cd5155e4a9498bdce4a009c3db4",
-            "rank" : "member"
-        },
-
-        "WeMove": {
-            "name": "WeMove",
-            "uuid": "57eaf17006484b84b98534e0701098f0",
-            "rank" : "member"
-        },
-
-        "Triginity": {
-            "name": "Triginity",
-            "uuid": "",
-            "rank" : "member"
-        },
-
         "Receivn": {
             "name": "Receivn",
             "uuid": "590fad7e172a402d82b50413ed22aa50",
-            "rank" : "member"
+            "rank" : "captain"
+        },
+
+        "Kizzlers": {
+            "name": "Kizzlers",
+            "uuid": "c3f111a82f3d48f2863d832ca8608687",
+            "rank" : "ogs"
         },
 
         "Crating": {
@@ -185,28 +71,28 @@
             "uuid": "150750c8962048738c0c7e0d16e9ffc2",
             "rank" : "member"
         },
-        
-        "essorant": {
-            "name": "essorant",
-            "uuid": "e1061278e2e64f26b660b744d6914593",
-            "rank" : "member"
-        },
-        
-        "_M4_": {
-            "name": "_M4_",
-            "uuid": "9899144a206a4be6875f6d06f330ccb0",
-            "rank" : "member"
-        },
-        
-        "Shxrkyy": {
-            "name": "Shxrkyy",
-            "uuid": "ffd713bbe5104c6985c8f3f65c5a9f03",
-            "rank" : "member"
-        },
 
-        "1c2l": {
-            "name": "1c2l",
-            "uuid": "4ce6d0adc35442c6b44beb29613f9a43",
+        "Trjcky": {
+            "name": "Trjcky",
+            "uuid": "15bb4bd48bb041f4bcbabfa58cff736e",
+            "rank" : "member"
+        },
+        
+        "GoogleMyCheats": {
+            "name": "GoogleMyCheats",
+            "uuid": "8f74a1da4c174626ac2ca5db4c2ce745",
+            "rank" : "member"
+        },
+        
+        "Vegitta": {
+            "name": "Vegitta",
+            "uuid": "a4713c4a29914745aea60adc3d562b7b",
+            "rank" : "member"
+        },
+        
+        "Toggl3Combo": {
+            "name": "Toggl3Combo",
+            "uuid": "368d934b344746aa97e1f21b7df2c7b1",
             "rank" : "member"
         }
     }

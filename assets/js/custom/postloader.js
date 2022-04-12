@@ -1,7 +1,6 @@
 
 var postsList = document.getElementById("posts-go-here");
 var miniPostsList = document.getElementById("mini-posts-go-here");
-var popularPostsList = document.getElementById("popular-posts-go-here");
 var allPosts = [];
 
 function loadPosts() {
@@ -52,8 +51,6 @@ function addPosts() {
 
             miniPostsList.innerHTML = miniElement;
         }
-
-        popularPostsList.innerHTML = popularElement;
     }
 }
 

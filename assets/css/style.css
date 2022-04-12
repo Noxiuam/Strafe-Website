@@ -2372,6 +2372,15 @@ hr{
     color: black;
 }
 
+.strafe-name a {
+    color: var(--text);
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 1.2em;
+    font-style: italic;
+    color: black;
+}
+
 .strafe-member {
     margin-right: 100px;
     margin-bottom: 25px;
@@ -5882,4 +5891,3 @@ b,sup,sub,u,del{
 .switch-wrap{
     margin-bottom:10px
 }
- 

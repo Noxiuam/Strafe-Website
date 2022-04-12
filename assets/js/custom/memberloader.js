@@ -4,8 +4,8 @@ var ogsList = document.getElementById("ogs");
 var captainList = document.getElementById("captains");
 var memberList = document.getElementById("members");
 
-var twitchList = document.getElementById("youtubers");
-var youtubeList = document.getElementById("twitch");
+var twitchList = document.getElementById("twitch");
+var youtubeList = document.getElementById("youtubers");
 
 var allMembers = [];
 
@@ -39,39 +39,44 @@ function addMembers() {
         let name = allMembers[i].name;
         let uuid = allMembers[i].uuid;
         let rank = allMembers[i].rank;
+        let youtube = allMembers[i].youtube;
+        let twitch = allMembers[i].twitch;
 
-        switch(rank) {
+        if (ownerList != undefined && ogsList != undefined && captainList != undefined && memberList != undefined) {
+            switch(rank) {
 
-            case "leader":
-                ownerElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                ownerList.innerHTML = ownerElement;   
-                break;
-            
-            case "ogs":
-                ogsElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                ogsList.innerHTML = ogsElement;   
-                break;
-
-            case "captain":
-                captainElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                captainList.innerHTML = captainElement;   
-                break;
+                case "leader":
+                    ownerElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
+                    ownerList.innerHTML = ownerElement;   
+                    break;
                 
-            case "member":
-                memberElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                memberList.innerHTML = memberElement;   
-                break;
-
-            case "twitch":
-                twitchElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                twitchList.innerHTML = twitchElement;   
-                break;
-
-            case "youtube":
-                youtubeElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
-                youtubeList.innerHTML = youtubeElement;   
-                break;
+                case "ogs":
+                    ogsElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
+                    ogsList.innerHTML = ogsElement;   
+                    break;
+    
+                case "captain":
+                    captainElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
+                    captainList.innerHTML = captainElement;   
+                    break;
+                    
+                case "member":
+                    memberElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><span>' + name + '</span></div></div></div>'
+                    memberList.innerHTML = memberElement;   
+                    break;
+            }
         }
+
+        if (youtube.length != 0 && youtubeList != undefined) {
+            youtubeElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><a href="' + youtube + '" target=_blank>' + name + '</a></div></div></div>'
+            youtubeList.innerHTML = youtubeElement;   
+        }
+
+        if (twitch.length != 0 && twitchList != undefined) {
+            twitchElement += '<div class=strafe-panel-body><div class=strafe-member><img src=https://visage.surgeplay.com/full/256/' + uuid + '><div class=strafe-name><a href="' + twitch + '" target=_blank>' + name + '</a></div></div></div>'
+            twitchList.innerHTML = twitchElement;   
+        }
+
     }
 }
 
@@ -79,7 +84,9 @@ function getMemberObj(json) {
     var member = {
         name: json.name,
         uuid: json.uuid,
-        rank: json.rank
+        rank: json.rank,
+        youtube: json.youtube,
+        twitch: json.twitch
     }
     return member;
 }

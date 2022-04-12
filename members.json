@@ -3,97 +3,129 @@
         "Fxmous": {
             "name": "Fxmous",
             "uuid": "12e0d63d9e5049a9b5fe4229fba667f2",
-            "rank" : "leader"
+            "rank" : "leader",
+            "youtube": "https://youtube.com/fxmous",
+            "twitch": "https://twitch.tv/fxmousssss"
         },
     
         "Inboxx": {
-            "name": "Inboxx (quickdropper)",
+            "name": "Inboxx",
             "uuid": "d268f133ba0247739acea47e608d4c8f",
-            "rank" : "leader"
+            "rank" : "leader",
+            "youtube": "https://youtube.com/Inboxx",
+            "twitch": ""
         },
     
         "forfit": {
             "name": "forfit",
             "uuid": "430742ae9067495db08dc0c798e88cd7",
-            "rank" : "leader"
+            "rank" : "leader",
+            "youtube": "https://youtube.com/forfitmc",
+            "twitch": ""
         },
     
         "Nox": {
             "name": "Nox",
             "uuid": "2beaac97f357493a9b8cf7f1976a8f0d",
-            "rank" : "ogs"
+            "rank" : "ogs",
+            "youtube": "",
+            "twitch": ""
         },
 
         "PackFolder": {
             "name": "PackFolder",
             "uuid": "3d825cdb9f3c4460970d526331e0e95d",
-            "rank" : "ogs"
+            "rank" : "ogs",
+            "youtube": "https://youtube.com/packfolder",
+            "twitch": ""
         },
 
         "Detaining": {
             "name": "Detaining",
             "uuid": "c8f6dc8826c4401d8eac6049985d574a",
-            "rank" : "ogs"
+            "rank" : "ogs",
+            "youtube": "",
+            "twitch": ""
         },
 
         "Ayxai": {
             "name": "Ayxai",
             "uuid": "fda3778519f743f09b27584f5257e296",
-            "rank" : "ogs"
+            "rank" : "ogs",
+            "youtube": "",
+            "twitch": ""
         },
 
         "RlyRemixed": {
             "name": "RlyRemixed",
             "uuid": "73dc064e073941e39be789d1d3d280ad",
-            "rank" : "captain"
+            "rank" : "captain",
+            "youtube": "",
+            "twitch": ""
         },
 
         "AdrianFtws": {
             "name": "AdrianFtws",
             "uuid": "69488a1e5e2b42ab98ee30e52f7cd6e5",
-            "rank" : "captain"
+            "rank" : "captain",
+            "youtube": "",
+            "twitch": ""
         },
         
         "Receivn": {
             "name": "Receivn",
             "uuid": "590fad7e172a402d82b50413ed22aa50",
-            "rank" : "captain"
+            "rank" : "captain",
+            "youtube": "",
+            "twitch": ""
         },
 
         "Kizzlers": {
             "name": "Kizzlers",
             "uuid": "c3f111a82f3d48f2863d832ca8608687",
-            "rank" : "ogs"
+            "rank" : "ogs",
+            "youtube": "",
+            "twitch": ""
         },
 
         "Crating": {
             "name": "Crating",
             "uuid": "150750c8962048738c0c7e0d16e9ffc2",
-            "rank" : "member"
+            "rank" : "member",
+            "youtube": "",
+            "twitch": ""
         },
 
         "Trjcky": {
             "name": "Trjcky",
             "uuid": "15bb4bd48bb041f4bcbabfa58cff736e",
-            "rank" : "member"
+            "rank" : "member",
+            "youtube": "",
+            "twitch": ""
         },
         
         "GoogleMyCheats": {
             "name": "GoogleMyCheats",
             "uuid": "8f74a1da4c174626ac2ca5db4c2ce745",
-            "rank" : "member"
+            "rank" : "member",
+            "youtube": "",
+            "twitch": ""
         },
         
         "Vegitta": {
             "name": "Vegitta",
             "uuid": "a4713c4a29914745aea60adc3d562b7b",
-            "rank" : "member"
+            "rank" : "member",
+            "youtube": "",
+            "twitch": ""
         },
         
         "Toggl3Combo": {
             "name": "Toggl3Combo",
             "uuid": "368d934b344746aa97e1f21b7df2c7b1",
-            "rank" : "member"
+            "rank" : "member",
+            "youtube": "",
+            "twitch": ""
         }
     }
 }
